@@ -1,0 +1,12 @@
+I
+800
+OBJ
+
+PARTICLE_SYSTEM	Smoke.pss
+POINT_COUNTS	0	0	0	0
+
+ANIM_begin
+ANIM_hide	0	0	sim/flightmodel/failures/smoking
+ANIM_show	1	1	sim/flightmodel/failures/smoking
+EMITTER smoke 0 -0.71579677 -0.28794128 0 0 0
+ANIM_end
