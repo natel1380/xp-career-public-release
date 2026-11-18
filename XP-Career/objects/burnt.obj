@@ -1,0 +1,23 @@
+I
+800
+OBJ
+
+TEXTURE burnt.png
+WEATHER_TRANSPARENT
+GLOBAL_no_shadow
+ATTR_poly_os 1
+POINT_COUNTS 4 0 0 6
+
+VT -10 0 -10  0 1 0  0 0
+VT 10 0 -10  0 1 0  1 0
+VT 10 0 10  0 1 0  1 1
+VT -10 0 10  0 1 0  0 1
+
+IDX 0
+IDX 1
+IDX 2
+IDX 0
+IDX 2
+IDX 3
+
+TRIS 0 6

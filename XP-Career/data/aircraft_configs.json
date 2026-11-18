@@ -1,0 +1,338 @@
+[
+    {
+        "desc": "",
+        "hp": 300.0,
+        "icao": "BE58",
+        "price": 528000.0,
+        "seats": 6
+    },
+    {
+        "desc": "",
+        "hp": 300.0,
+        "icao": "BE36",
+        "price": 450000.0,
+        "seats": 6
+    },
+    {
+        "desc": "",
+        "hp": 125.0,
+        "icao": "DV20",
+        "price": 240000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 2140.0,
+        "icao": "DH8C",
+        "price": 960000.0,
+        "seats": 52
+    },
+    {
+        "desc": "",
+        "hp": 180.0,
+        "icao": "C172",
+        "price": 300000.0,
+        "seats": 4
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "A20N",
+        "price": 2100000.0,
+        "seats": 182
+    },
+    {
+        "desc": "",
+        "hp": 150.0,
+        "icao": "PA28A",
+        "price": 280000.0,
+        "seats": 4
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "._ec135",
+        "price": 650000.0,
+        "seats": 8
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "A318",
+        "price": 1800000.0,
+        "seats": 125
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "A320",
+        "price": 2100000.0,
+        "seats": 180
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "A333",
+        "price": 2450000.0,
+        "seats": 300
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "B736",
+        "price": 1850000.0,
+        "seats": 140
+    },
+    {
+        "desc": "",
+        "hp": 142.0,
+        "icao": "DH82",
+        "price": 220000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 9999.0,
+        "icao": "E175",
+        "price": 1100000.0,
+        "seats": 80
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "A345",
+        "price": 2400000.0,
+        "seats": 290
+    },
+    {
+        "desc": "",
+        "hp": 260.0,
+        "icao": "RV7",
+        "price": 350000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 452.0,
+        "icao": "ALIA",
+        "price": 500000.0,
+        "seats": 6
+    },
+    {
+        "desc": "",
+        "hp": 43.0,
+        "icao": "AS21",
+        "price": 180000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "B720",
+        "price": 1850000.0,
+        "seats": 140
+    },
+    {
+        "desc": "",
+        "hp": 2160.0,
+        "icao": "AT45",
+        "price": 900000.0,
+        "seats": 48
+    },
+    {
+        "desc": "",
+        "hp": 28.0,
+        "icao": "Aerolite_103",
+        "price": 160000.0,
+        "seats": 1
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "B738",
+        "price": 2050000.0,
+        "seats": 175
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "F-4",
+        "price": 1200000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "B737",
+        "price": 2100000.0,
+        "seats": 180
+    },
+    {
+        "desc": "",
+        "hp": 940.0,
+        "icao": "C208",
+        "price": 700000.0,
+        "seats": 15
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "B739",
+        "price": 2150000.0,
+        "seats": 180
+    },
+    {
+        "desc": "",
+        "hp": 1.0,
+        "icao": "B744",
+        "price": 2600000.0,
+        "seats": 380
+    },
+    {
+        "desc": "",
+        "hp": 180.0,
+        "icao": "DA62",
+        "price": 520000.0,
+        "seats": 7
+    },
+    {
+        "desc": "",
+        "hp": 1300.0,
+        "icao": "BE9L",
+        "price": 750000.0,
+        "seats": 8
+    },
+    {
+        "desc": "",
+        "hp": 175.0,
+        "icao": "R22",
+        "price": 300000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 105.0,
+        "icao": "C152",
+        "price": 200000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "MD82",
+        "price": 1950000.0,
+        "seats": 160
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "C750",
+        "price": 850000.0,
+        "seats": 14
+    },
+    {
+        "desc": "",
+        "hp": 5071.0,
+        "icao": "DH8D",
+        "price": 1150000.0,
+        "seats": 80
+    },
+    {
+        "desc": "",
+        "hp": 2420.0,
+        "icao": "DHC5",
+        "price": 880000.0,
+        "seats": 43
+    },
+    {
+        "desc": "",
+        "hp": 155.0,
+        "icao": "DR40",
+        "price": 300000.0,
+        "seats": 4
+    },
+    {
+        "desc": "",
+        "hp": 816.0,
+        "icao": "EC35",
+        "price": 680000.0,
+        "seats": 7
+    },
+    {
+        "desc": "",
+        "hp": 850.0,
+        "icao": "EVOT",
+        "price": 600000.0,
+        "seats": 4
+    },
+    {
+        "desc": "",
+        "hp": 2750.0,
+        "icao": "F50",
+        "price": 1000000.0,
+        "seats": 58
+    },
+    {
+        "desc": "",
+        "hp": 310.0,
+        "icao": "SR22",
+        "price": 420000.0,
+        "seats": 4
+    },
+    {
+        "desc": "",
+        "hp": 235.0,
+        "icao": "L5",
+        "price": 260000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 150.0,
+        "icao": "PA18",
+        "price": 240000.0,
+        "seats": 2
+    },
+    {
+        "desc": "",
+        "hp": 802.5,
+        "icao": "S76",
+        "price": 720000.0,
+        "seats": 12
+    },
+    {
+        "desc": "",
+        "hp": 100.0,
+        "icao": "PRM1",
+        "price": 650000.0,
+        "seats": 8
+    },
+    {
+        "desc": "",
+        "hp": 260.0,
+        "icao": "RV10",
+        "price": 380000.0,
+        "seats": 4
+    },
+    {
+        "desc": "",
+        "hp": 110.0,
+        "icao": "SF50",
+        "price": 700000.0,
+        "seats": 7
+    },
+    {
+        "desc": "",
+        "hp": 1311.319946289,
+        "icao": "TBM",
+        "price": 720000.0,
+        "seats": 8
+    },
+    {
+        "desc": "",
+        "hp": 0.0,
+        "icao": "F-14D",
+        "price": 1300000.0,
+        "seats": 2
+    }
+]
